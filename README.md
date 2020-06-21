@@ -12,9 +12,9 @@ Este proyecto es un ejemplo de como armar un proyecto Node con Typescript como b
 
 El proyecto esa compuesto por 2 proyectos github, cada uno proporciona sus guías de instalación :
 
-[UI React](https://github.com/nmarsollier/mascotas_react) :  Frontend desarrollado en react y typescript.
+[UI React](https://github.com/Sebalvarez97/mascotas_react) :  Frontend desarrollado en react y typescript.
 
-[Backend en Node](https://github.com/nmarsollier/mascotas_node) : Node con typescript para backend.
+[Backend en Node](https://github.com/Sebalvarez97/mascotas_node) : Node con typescript para backend.
 
 También existe una demo de [UI Modular en React](https://github.com/nmarsollier/mascotas_react_app)
 
